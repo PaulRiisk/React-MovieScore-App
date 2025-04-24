@@ -1,12 +1,29 @@
-# React + Vite
+# 🎬 React Movie Score Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Willkommen zur React **Movie Score Web App** – einer kleinen, aber feinen Anwendung, mit der du ganz einfach nach Filmen suchen und deren durchschnittliche Bewertung von TMDB abrufen kannst! 🌟
 
-Currently, two official plugins are available:
+Dieses Projekt wurde mit **React, Vite, TailwindCSS und der TMDB API** umgesetzt – hauptsächlich als Lernprojekt. 💻🎨
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+👉 [Hier geht's zur Web-App](https://movie-scores.paulrist.io/) – such dir einen Film aus und check die Bewertungen! 🍿
+
+---
+
+## 🛠️ Technologien
+
+    ⚛️ React – für das UI
+
+    ⚡ Vite – für superschnelles Development
+
+    🎨 TailwindCSS – für das Styling
+
+    🎥 TMDB API – für Filmdaten und Bewertungen
+
+---
+
+## 🙏 Dankeschön
+
+Ein großes Dankeschön an TMDB für ihre großartige API und an @JavaScriptMastery für den super React-Kurs, der dieses Projekt inspiriert hat. 👏
